@@ -1,4 +1,4 @@
-#Netflix Movies and TV Shows Analysis - EDA
+##Netflix Movies and TV Shows Analysis - EDA
 
 The Netflix analysis project is a Python-based data analysis project that aims to predict the types of movies consumers will likely enjoy watching on the Netflix platform. The project utilizes various data analysis techniques to break down movies and extract relevant information from them. This information is then used to identify patterns and trends in user preferences and behaviour, which can be used to make recommendations for future content. The project likely involves working with large datasets of movie titles, descriptions, and other relevant metadata and utilizing statistical and machine-learning techniques to make predictions about user preferences. Overall, the project aims to provide insights into user behaviour and preferences, which can inform content creation and curation on the Netflix platform.
 
